@@ -122,7 +122,7 @@ servicesInfo.forEach((detail)=>{
 
 const testimonialInfo = [
   {
-    img: "/ASSETS/IMG/my_image.jpeg",
+    img: "/ASSETS/IMG/my_img.jpeg",
     name: "Moses",
     text: " I'm So glad to have you develop my Website, It's so cool and wonderful, you also care for your Customers Keep it up"
   },
