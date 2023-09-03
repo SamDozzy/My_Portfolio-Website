@@ -659,9 +659,6 @@ form:focus {
   }
 
   .info_text {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    align-items: center;
-    width: 350px;
+    width: 280px;
   }
 }
