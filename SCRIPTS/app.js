@@ -122,20 +122,20 @@ servicesInfo.forEach((detail)=>{
 
 const testimonialInfo = [
   {
-    img: "/ASSETS/IMG/my_image.jpeg",
+    img: "/My_Portfolio-Website/ASSETS/IMG/my_image.jpeg",
     name: "Moses",
-    text: " I'm So glad to have you develop my Website, It's so cool and wonderful, you also care for your Customers Keep it up"
+    text: " I'm So glad to have you develop my Website, It's so cool and wonderful, you also care for your Customers Keep it up",
   },
   {
-    img: "/ASSETS/IMG/moses.jpg",
+    img: "/My_Portfolio-Website/ASSETS/IMG/moses.jpg",
     name: "Daniel",
-    text: " Best Developer i have Seen, Keep up the Good Work"
+    text: " Best Developer i have Seen, Keep up the Good Work",
   },
   {
-    img: "/ASSETS/IMG/miracle.JPG",
+    img: "/My_Portfolio-Website/ASSETS/IMG/miracle.JPG",
     name: "Miracle",
-    text: " When i came across to you, My life have been better, Thanks Bro"
-  }
+    text: " When i came across to you, My life have been better, Thanks Bro",
+  },
 ];
 
 const testBtns = document.querySelectorAll('.testi_btn')

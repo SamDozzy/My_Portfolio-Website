@@ -107,7 +107,7 @@ main{
 }
 
 .hero_container{
-  background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(/ASSETS/IMG/hero_img.jpg);
+  background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(/My_Portfolio-Website/ASSETS/IMG/hero_img.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
