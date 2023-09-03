@@ -655,10 +655,7 @@ form:focus {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
-    width: 400px;
+    width: 350px;
   }
 
-  .info_text {
-    width: 280px;
-  }
 }
