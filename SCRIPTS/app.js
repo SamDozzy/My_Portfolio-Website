@@ -1,13 +1,13 @@
 
 
-const navLinks = document.querySelectorAll('.links')
-navLinks.forEach((navLink)=>{
-  navLink.addEventListener('click', (e)=>{
-    event.preventDefault();
-   const links = e.target.innerHTML; 
-   //navLink.classList.add('active')
-  })
-})
+// const navLinks = document.querySelectorAll('.links')
+// navLinks.forEach((navLink)=>{
+//   navLink.addEventListener('click', (e)=>{
+//     event.preventDefault();
+//    const links = e.target.innerHTML; 
+//    //navLink.classList.add('active')
+//   })
+// })
 
 const aboutInfo = [
   {
